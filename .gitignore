@@ -1,0 +1,9 @@
+*.pem
+*.ppk
+.env
+.aws/
+credentials
+config
+__pycache__/
+.DS_Store
+Thumbs.db
